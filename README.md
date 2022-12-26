@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Samuele2022
-- 👀 I’m interested in machine learning projects in Supply Chain
+- 👀 I’m interested in data analysis for Supply Chain problems
 - 🌱 I’m currently learning Python, JS, Machine learning
 
 
