@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Samuele2022
 - 👀 I’m interested in data analysis for Supply Chain problems
-- 🌱 I’m currently learning Python, JS, Machine learning
+- 🌱 I’m currently working with Python, Power Platform and SQL.
 
 
 <!---
